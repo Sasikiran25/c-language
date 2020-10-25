@@ -4,8 +4,7 @@
   {
    cout<<"size of the char: 1byte\n";
    cout<<"size of the int: 4bytes\n";
-   cout<<"size of the float: 4bytes\n;
-   cout<<"size of the double: 8bytes\n";
+   cout<<"size of the float: 4bytes\n";
+   cout<<"size of the double: 8bytes";
    return 0;
  }
-  
