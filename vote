@@ -1,0 +1,17 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+ int age;
+ do{
+ cout<<"Enter your age: ";
+ cin>>age;
+ if(age>=18)
+ {
+ cout<<"your are eligible for vote\n ";
+ }
+ else
+ cout<<"your are not eligible for vote\n";
+ }while(age != a);
+ system("pause");
+ }
