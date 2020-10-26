@@ -12,6 +12,6 @@ int main()
  }
  else
  cout<<"your are not eligible for vote\n";
- }while(age != a);
+ }while(age != 'a');
  system("pause");
  }
